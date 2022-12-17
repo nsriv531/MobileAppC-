@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sriva\\source\\repos\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj": {}
+    "C:\\Users\\sriva\\source\\repos\\MobileAppC-\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sriva\\source\\repos\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj": {
+    "C:\\Users\\sriva\\source\\repos\\MobileAppC-\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sriva\\source\\repos\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj",
+        "projectUniqueName": "C:\\Users\\sriva\\source\\repos\\MobileAppC-\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj",
         "projectName": "TransferMobileAPP",
-        "projectPath": "C:\\Users\\sriva\\source\\repos\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj",
+        "projectPath": "C:\\Users\\sriva\\source\\repos\\MobileAppC-\\TransferMobileAPP\\TransferMobileAPP\\TransferMobileAPP.csproj",
         "packagesPath": "C:\\Users\\sriva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sriva\\source\\repos\\TransferMobileAPP\\TransferMobileAPP\\obj\\",
+        "outputPath": "C:\\Users\\sriva\\source\\repos\\MobileAppC-\\TransferMobileAPP\\TransferMobileAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sriva\\AppData\\Roaming\\NuGet\\NuGet.Config",

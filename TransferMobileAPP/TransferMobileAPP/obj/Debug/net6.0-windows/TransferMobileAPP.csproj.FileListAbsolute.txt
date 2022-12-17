@@ -1,0 +1,17 @@
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\bin\Debug\net6.0-windows\TransferMobileAPP.exe
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\bin\Debug\net6.0-windows\TransferMobileAPP.deps.json
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\bin\Debug\net6.0-windows\TransferMobileAPP.runtimeconfig.json
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\bin\Debug\net6.0-windows\TransferMobileAPP.dll
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\bin\Debug\net6.0-windows\TransferMobileAPP.pdb
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.csproj.AssemblyReference.cache
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.Form1.resources
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.csproj.GenerateResource.cache
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.AssemblyInfoInputs.cache
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.AssemblyInfo.cs
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.dll
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\refint\TransferMobileAPP.dll
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.pdb
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\TransferMobileAPP.genruntimeconfig.cache
+C:\Users\sriva\source\repos\MobileAppC-\TransferMobileAPP\TransferMobileAPP\obj\Debug\net6.0-windows\ref\TransferMobileAPP.dll
